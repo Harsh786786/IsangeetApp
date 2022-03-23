@@ -1,5 +1,5 @@
 # IsangeetApp
-This app is made by java  and able to read the external storage of our android device and add the the mp3 files . Features like play , pause next , prevoius re also their .
+This app is made by java  and able to read the external storage of our android device and add the the mp3 files . Features like play , pause , next , prevoius are also their .
 
 
 ![Screenshot (108)](https://user-images.githubusercontent.com/73978943/159690509-86434908-0f4e-4b89-b8ae-a9408c46d849.png)
